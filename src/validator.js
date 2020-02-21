@@ -1,7 +1,6 @@
 const validar=(name) =>{
     const strReverse= name.split("").reverse();
 	let suma=0;
-	const arr = [];
 	for (let i = 0; i <=strReverse.length-1; i++){
 		if(i%2!==0){
 			const n=parseInt(strReverse[i])
@@ -12,14 +11,15 @@ const validar=(name) =>{
 			} else {
 				suma +=parseInt(doble);
 			}
-		} else {
-		    suma+=parseInt(strReverse[i]);
+		} 
+		else {
+			suma+=parseInt(strReverse[i]);
 		}
 	}
 	if(suma%10===0){
-		console.log(true);
+		return false;
 	} else {
-		console.log(false);
+		return true;
 	}
 }
 
@@ -38,16 +38,13 @@ const maskify = (name) => {
     }
 }
 
-const validator = {
-
-	isValid: (name)=>{
-	return	validar(name);
-	},
-
-    enmascarar: (name) =>{
-	 return   maskify(name);	  
-	}
-	
+	const validator = {
+		isValid: (name)=>{
+			return	validar(name);
+},
+		enmascarar: (name) =>{
+		return   maskify(name);	  
+		}
 };
 		
 
