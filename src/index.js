@@ -13,7 +13,8 @@ const botonera  = (event) => {
 		contenedor1.style.display="none";
 		contenedor2.style.display="block";
 		validator.isValid(name.value);
-		texto.innerHTML = `Tu tarjeta ${String(validator.enmascarar(name.value))} ha sido ingresada`;
+		//console.log(validator.maskify(name.value));
+		texto.innerHTML = `Tu tarjeta ${String(validator.maskify(name.value))} ha sido ingresada`;
 	};
 	
 		const regresar = (event)=> {
