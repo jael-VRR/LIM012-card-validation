@@ -1,33 +1,53 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>prototipo de proyecto</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-</head>
-<body>
-    <div id="contenedor1">
-			<h1>Banco Felicidad</h1>
-			<h2>Ingresa tarjeta</h2>
-			<input id="name" placeholder="Ingrese dígitos de tarjeta"> 
-			<button type="button" id="btn">ingresar</button>
-	</div>
-
-	<div id="contenedor2">
-		<h1>Bienvenido/a</h1>
-		<p id="texto">numero</p>
-		<h1>verifica si tus datos son correctos</h1>
-		<h2>Tus operaciones en un solo click</h2>
-		<div class="opciones">
-			<button type="button" id="btn2">retornar</button>
-			<button type="button" id="btn3">anexar tarjeta</button>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<title>prototipo de proyecto</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<script src="https://kit.fontawesome.com/a240d38fa8.js" crossorigin="anonymous"></script>
+	</head>
+	<body>
+		<nav>
+			<ul>
+				<li><a href="#"><span class="primero"><i class="fab fa-cc-paypal"></i></span>Resumen</a></li>
+				<li><a href="#"><span class="segundo"><i class="fas fa-search-dollar"></i></span>Movimientos</a>
+				<li><a href="#"><span class="tercero"><i class="far fa-paper-plane"></i></span>Enviar</a></li>
+				<li><a href="#"><span class="cuarto"><i class="fas fa-award"></i></span>Promociones</a></li>
+				<li><a href="#"><span class="quinto"><i class="fas fa-info-circle"></i></span>Ayuda</a></li>
+			</ul>
+		</nav>
+		
+		<div class="container" id="contenedor1">
+			<div class="left"></div>
+				<div class="rigth">
+					<div class="formBox">
+						<form>
+							<p>Cuentas bancarias y tarjetas</p>
+							<input id="name" placeholder="Ingrese dígitos de tarjeta"> 
+							<button type="button" id="btn">Asociar tarjeta o cuenta bancaria</button>
+						</form>
+					</div>	
+				</div>
 		</div>
-</div>
 
 
-<script type="module" src="index.js"></script>
-</body>
+		<div class="container2" id="contenedor2">
+			<h1>Bienvenido/a</h1>
+			<div class="formBox2">
+				<form>
+					<p id="texto">numero</p>
+								<p>Tus operaciones en un solo click</p>
+					<div class="opciones">
+						<button type="button" id="btn2">Retornar al menu</button>
+						<button type="button" id="btn3">Asociar otra tarjeta</button>
+					</div>
+				</form>	
+			</div>
+		</div>
+		
+		<script type="module" src="index.js"></script>
+	</body>
 </html>
