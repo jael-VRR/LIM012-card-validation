@@ -36,68 +36,63 @@
 
 6. Objetivos de aprendizaje
 
-  1.Sé lo que es y para qué sirve.
 
-  2.Lo puedo explicar con mis propias palabras.
-
-  3.Lo puedo hacer sola desde cero en un proyecto diferente.
- 
 
   UX
 
-    Diseñar la aplicación pensando y entendiendo al usuario..................... (3)
+    Diseñar la aplicación pensando y entendiendo al usuario..................... (si)
 
-    Crear prototipos para obtener feedback e iterar..............................(3)
+    Crear prototipos para obtener feedback e iterar..............................(si)
 
-    Aplicar los principios de diseño visual .....................................(2)
+    Aplicar los principios de diseño visual .....................................(si)
 
   HTML y CSS
 
-    Uso correcto de HTML semántico...............................................(2)
+    Uso correcto de HTML semántico...............................................(si)
 
-    Uso de selectores de CSS.....................................................(2)
+    Uso de selectores de CSS.....................................................(si)
 
-    Construir tu aplicación respetando el diseño realizado (maquetación).........(3)
+    Construir tu aplicación respetando el diseño realizado (maquetación).........(si)
 
   DOM
 
-     Uso de selectores de nodos del DOM...........................................(3)
+     Uso de selectores de nodos del DOM...........................................(si)
 
-     Manejo de eventos del DOM....................................................(2)
+     Manejo de eventos del DOM....................................................(si)
 
-     Manipulación dinámica del DOM................................................(2)
+     Manipulación dinámica del DOM................................................(si)
 
   Javascript
 
-    Manipulación de strings.......................................................(3)
+    Manipulación de strings.......................................................(si)
 
-     Uso de condicionales.........................................................(3)
+     Uso de condicionales.........................................................(si)
 
-     Uso de bucles................................................................(3)
+     Uso de bucles................................................................(si)
 
-     Uso de funciones.............................................................(2)
+     Uso de funciones.............................................................(si)
 
-     Datos atómicos y estructurados...............................................(3)
+     Datos atómicos y estructurados...............................................(si)
 
-     Utilizar ES Modules (import | export)........................................(1)
+     Utilizar ES Modules (import | export)........................................( )
 
   Testing
 
-     Testeo de tus funciones......................................................(3)
+     Testeo de tus funciones......................................................(si)
 
    
    Git y GitHub
 
-     Comandos de git (add | commit | pull | status | push)........................(2)
+     Comandos de git (add | commit | pull | status | push)........................(si)
 
-     Manejo de repositorios de GitHub (clone | fork | gh-pages)...................(1)
+     Manejo de repositorios de GitHub (clone | fork | gh-pages)...................( )
 
   
   Buenas prácticas de desarrollo
 
-     Organizar y dividir el código en módulos (Modularización)....................(2)
+     Organizar y dividir el código en módulos (Modularización)....................(si)
 
-     Uso de identificadores descriptivos (Nomenclatura | Semántica)...............(2)
+     Uso de identificadores descriptivos (Nomenclatura | Semántica)...............(si)
 
-     Uso de linter para seguir buenas prácticas (ESLINT)..........................(2)
+     Uso de linter para seguir buenas prácticas (ESLINT)..........................(si)
 
