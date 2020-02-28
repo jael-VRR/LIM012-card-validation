@@ -9,6 +9,7 @@
 
 * La imagen final de tu proyecto.
   ![Pantalla final](proyecto.jpg)
+  ![Pantalla](proyecto.JPG)
 
 * Investigación UX:
   1. Explicar quiénes son los usuarios y los objetivos en relación con el
