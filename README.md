@@ -23,65 +23,67 @@
   * 3.3 PROTOTIPO EN PAPEL.
   ![prototipo en papel](prototipo.jpeg)
 
-  4. FEEDBACK.
+4. FEEDBACK.
 
-  * 4.1 Organizar mejor los tiempos. 
-  * 4.2 Desarrollar la funcionalidad de la página de la mano con el diseño.
-  * 4.3 Pedir feedback cuando lo necesite.
+   4.1 Organizar mejor los tiempos. 
+   4.2 Desarrollar la funcionalidad de la página de la mano con el diseño.
+   4.3 Pedir feedback cuando lo necesite.
 
 
-  * 5. PROTOTIPO FINAL.
+5. PROTOTIPO FINAL.
   ![prototipo final](captura.PNG)
 
-4. OBJETIVOS DE APRENDIZAJE
-1.Sé lo que es y para qué sirve.
 
-2.Lo puedo explicar con mis propias palabras.
+6. Objetivos de aprendizaje
 
-3.Lo puedo hacer sola desde cero en un proyecto diferente.
+  1.Sé lo que es y para qué sirve.
 
-UX (Diseño de experiencia de usuario)
--Diseño centrado en el usuario -->3
+  2.Lo puedo explicar con mis propias palabras.
 
--Crear prototipos para obtener feedback e iterar --> 3
+  3.Lo puedo hacer sola desde cero en un proyecto diferente.
+ 
 
--Aplicar los principios de diseño visual-->2
+  UX
 
-HTML y CSS
--Uso correcto de HTML semántico --> 2
+   Diseñar la aplicación pensando y entendiendo al usuario..................... (3)
+   Crear prototipos para obtener feedback e iterar..............................(3)
+   Aplicar los principios de diseño visual .....................................(2)
 
--Uso de selectores de CSS --> 2
+  HTML y CSS
 
--Construir tu aplicación respetando el diseño realizado (maquetación). --> 3
+   Uso correcto de HTML semántico...............................................(2)
+   Uso de selectores de CSS.....................................................(2)
+   Construir tu aplicación respetando el diseño realizado (maquetación).........(3)
 
-DOM (Document Object Model)
--Utilizar los métodos de selección del DOM (getElementById, querySelector, etc) --> 2
+  DOM
 
--Manejar eventos del DOM (addEventListener) --> 2 3
+   Uso de selectores de nodos del DOM...........................................(3)
+   Manejo de eventos del DOM....................................................(2)
+   Manipulación dinámica del DOM................................................(2)
 
--Manipulación dinámica del DOM (createElement, innerHTML) --> 1
+  Javascript
 
-JAVASCRIPT
--Manipular strings (cadenas de texto) y concatenar. -->3
+   Manipulación de strings......................................................(3)
+   Uso de condicionales.........................................................(3)
+   Uso de bucles................................................................(3)
+   Uso de funciones.............................................................(2)
+   Datos atómicos y estructurados...............................................()
+   Utilizar ES Modules (import | export)........................................()
 
--Utilizar condicionales if-else o switch. -->1
+  Testing
 
--Utilizar bucles for o do-while. --> 1
+   Testeo de tus funciones......................................................(3)
 
--Utilizar funciones de tipo flecha (arrow-function). --> 1 2
+   
+   Git y GitHub
 
--Datos atómicos y estructurados (strings, numbers, array, object))
+   Comandos de git (add | commit | pull | status | push)........................(2)
+   Manejo de repositorios de GitHub (clone | fork | gh-pages)...................(1)
 
--Utilizar ES Modules (import | export). --> 1
+  
+  Buenas prácticas de desarrollo
 
-GIT Y GITHUB
--Comandos de git (add (Si-3) | commit (Si-3) | pull | status (Si-3) | push(Si-3)). ----
+   Organizar y dividir el código en módulos (Modularización)....................()
+   Uso de identificadores descriptivos (Nomenclatura | Semántica)...............()
+   Uso de linter para seguir buenas prácticas (ESLINT)..........................()
 
--Manejo de repositorios de GitHub (clone(Si-3) | fork(Si-3) | gh-pages). --> 1
-
-BUENAS PRÁCTICAS DE DESARROLLO
--Organizar y dividir el código en módulos (Modularización). ---
-
--Uso de identificadores descriptivos (Nomenclatura | Semántica). -->2 3
-
--Uso de linter para seguir buenas prácticas (ESLINT). -->1
