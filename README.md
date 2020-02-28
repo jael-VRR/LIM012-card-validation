@@ -8,7 +8,7 @@
   Página que permite asociar tu tarjeta a una plataforma estilo Paypal desde donde podrás realizar compras y pagos de forma directa Y segura sin la necesidad de anexar una y otra vez la tarjeta para diversas operaciones.
 
 * La imagen final de tu proyecto.
-  ![Pantalla final](img/proyecto.jpg)
+  ![Pantalla final](proyecto.jpg)
 
 * Investigación UX:
   1. Explicar quiénes son los usuarios y los objetivos en relación con el
