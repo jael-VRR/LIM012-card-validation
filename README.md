@@ -1,6 +1,10 @@
-# Tarjeta de crédito válida
 
-* Un título con el nombre de tu proyecto.
+
+# TARJETA DE CRÉDITO
+## Descripcion
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaass
+### sss
   Asociar tarjeta de crédito
 
 * Un resumen de 1 o 2 líneas de qué se trata tu proyecto.
